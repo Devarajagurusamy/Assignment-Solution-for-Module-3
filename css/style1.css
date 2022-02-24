@@ -1,0 +1,39 @@
+#navbar{
+  background-color:#6e6e6e;
+  border: 3px solid black;
+  border-left: 0px;
+  border-right: 0px;
+}
+#navbar-heading{
+  font-size: 1.7em;
+  font-weight: bold;
+}
+#p0{
+  font-size: 1.8em;
+  text-align: center;
+  font-weight: bold;
+  margin-top:20px ;
+}
+#p1{
+
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+#p2{
+  font-size: .9em;
+}
+#content-main{
+  font-family: 'Oxygen', sans-serif;
+  background-color:#6e6e6e ;
+  width: 90%;
+}
+
+#nav-list{
+  font-size:1.3em;
+  text-align: center;
+  
+}
+button.navbar-toggler:hover{
+  background-color: white;
+}
